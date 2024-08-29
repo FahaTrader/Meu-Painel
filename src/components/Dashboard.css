@@ -1,0 +1,20 @@
+/* src/components/Dashboard.css */
+.dashboard {
+  padding: 20px;
+}
+
+.quick-access {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.sections {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section {
+  flex: 1;
+  margin: 0 10px;
+}
